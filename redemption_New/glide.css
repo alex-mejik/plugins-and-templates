@@ -1,0 +1,158 @@
+#feature{
+	width:1020px;
+	padding:0px 0px 10px 0px;
+	background:url(images/casing.png) repeat-y;
+	margin-bottom:10px;
+}
+
+#mygallery{
+	width:670px;
+	margin-left:20px;
+	float:left;
+}
+
+#welcome{
+	width:300px;
+	background:url(images/welc.jpg);
+	float:right;
+	margin-right:20px;
+	height:300px;
+	color:#eee;
+}	
+	
+#welcome h2{
+	padding:15px 10px;
+
+}	
+
+#welcome p{
+	padding:0px 10px;
+	line-height:20px;
+}	
+#welcome img{
+	margin:5px 10px;
+	float:left;
+
+}	
+img.phumb{
+	width:80px;
+	height:58px;
+	float:left;
+	margin-right:10px;
+
+}
+	
+#bottom{
+
+	margin:0px auto;
+}
+
+.bottomcover{
+	background:#fff  ;
+	margin:0px auto;
+	width:1000px;
+
+}	
+
+h3.bothead{
+
+	height:20px;
+	font-size:15px;
+	padding:10px 0px 10px 10px;
+	color:#333;
+	}
+	
+.botwid{
+	float:left;
+	width:230px;
+	padding-bottom:10px;
+	font-size:12px;
+	font-family:Arial,Tahoma,Century gothic,sans-serif;
+	margin:10px 0px 0px 15px;
+	color:#ddd;
+	}
+	
+.botwid ul {
+	list-style-type: none;
+	margin:  0px;
+	padding: 0px 5px 5px 5px ;
+
+	}
+	
+.botwid li{
+	list-style-type: none;
+	margin: 0 ;
+	padding: 0;
+	}
+	
+.botwid ul ul  {
+	list-style-type: none;
+	margin: 0;
+	padding: 0px 0px 0px 0px;
+	background-repeat:no-repeat;
+	}
+
+.botwid ul ul ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	border:0;
+	}
+
+.botwid ul ul ul ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	border:0;
+	}
+
+.botwid ul li {
+	height:100%;
+	line-height:18px;
+	clear: left;	
+	width: 220px;
+	list-style-type: none;
+	}
+	
+.botwid ul li a:link, .botwid ul li a:visited  {
+	color: #666;
+	text-decoration: none;
+	padding: 5px 0px 5px 5px;
+	display:block;
+	border-bottom:1px solid #ddd;
+	}
+
+.botwid ul li a:hover{
+	color: #222;
+	}
+
+.botwid p{
+	padding: 7px 10px;
+	margin:0;
+	}
+
+.botwid table {
+	width:100%;
+	text-align:center;
+	color:#787d7f;
+	}
+
+#ft-buttons-slide{
+	display:none;
+	}
+
+.ft-prev{
+	background:#000;
+	padding:0px 10px;
+	}
+
+.ft-next{
+	background:#000;
+		padding:0px 10px;
+	}
+	
+.ft-title{
+	background:#000;
+	padding:10px 10px;
+	width:650px;
+	}
